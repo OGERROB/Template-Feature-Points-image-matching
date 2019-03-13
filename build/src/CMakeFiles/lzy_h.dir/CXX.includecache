@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liuyz/桌面/Template+Feature_Points/src/functions.cpp
+functions.h
+/home/liuyz/桌面/Template+Feature_Points/src/functions.h
+

@@ -1,0 +1,4 @@
+/home/liuyz/桌面/Template+Feature_Points/build/CMakeFiles/edit_cache.dir
+/home/liuyz/桌面/Template+Feature_Points/build/CMakeFiles/rebuild_cache.dir
+/home/liuyz/桌面/Template+Feature_Points/build/CMakeFiles/project_lzy.dir
+/home/liuyz/桌面/Template+Feature_Points/build/CMakeFiles/libLZY.dir

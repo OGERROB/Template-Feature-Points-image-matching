@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibLZY.a  CMakeFiles/libLZY.dir/functions.cpp.o
+/usr/bin/ranlib liblibLZY.a
